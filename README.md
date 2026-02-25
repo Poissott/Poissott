@@ -1,3 +1,5 @@
+(cover.png)
+
 # ➡️ About Me:
 An enthusiastic Software Developer, always in search for innovation.
 
